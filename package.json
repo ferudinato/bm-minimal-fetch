@@ -1,0 +1,43 @@
+{
+	"name": "minimal-fetch",
+	"version": "1.0.0",
+	"description": "An http fetcher with basic options to make it simpler",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsup"
+	},
+	"files": [
+		"dist"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ferudinato/bm-minimal-fetch.git"
+	},
+	"keywords": [
+		"http",
+		"request",
+		"get",
+		"post",
+		"fetch",
+		"fetcher",
+		"frontend",
+		"minimal",
+		"simple",
+		"basic",
+		"easy",
+		"http request",
+		"http get",
+		"http post",
+		"http fetch"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ferudinato/bm-minimal-fetch/issues"
+	},
+	"homepage": "https://github.com/ferudinato/bm-minimal-fetch#readme",
+	"devDependencies": {
+		"tsup": "^8.0.0",
+		"typescript": "^5.2.2"
+	}
+}
