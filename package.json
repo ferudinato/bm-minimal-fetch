@@ -1,6 +1,6 @@
 {
 	"name": "bm-minimal-fetch",
-	"version": "1.0.8",
+	"version": "1.1.0",
 	"description": "An http fetcher with basic options to make it simpler",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
